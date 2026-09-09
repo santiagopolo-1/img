@@ -1,0 +1,22 @@
+body {
+    background-color:#9B1D20;
+    font-family: Helvetica;
+    font-size: 6em;
+}
+
+h1{
+    color:#08415C;
+}
+
+p{
+    color:#A4B8C4;
+}
+
+#cuadro1{
+    background-color: #FFFFFF;
+    width: 50vw;
+}
+
+.foto {
+width: 40%;
+}
